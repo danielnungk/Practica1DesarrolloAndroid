@@ -61,7 +61,7 @@ fun Columna(){
             fontSize = 28.sp, fontFamily = FontFamily.Default,
             color = Color(35,171,173), fontWeight = FontWeight.Bold
         )
-        Text(text="22131298",
+        Text(text="22131298" ,
             fontSize = 24.sp, fontFamily = FontFamily.SansSerif,
             color = Color(173,37,35), fontWeight = FontWeight.Bold
         )
